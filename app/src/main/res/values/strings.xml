@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">StringApp</string>
+    <string name="compareTo">compareTo</string>
+    <string name="contains">contains</string>
+    <string name="compareToIgnoreCase">compareToIgnoreCase</string>
+    <string name="endsWith">endsWith</string>
+    <string name="startsWith">startsWith</string>
+    <string name="equals">equals</string>
+    <string name="indexOf">indexOf</string>
+    <string name="lastIndexOf">lastIndexOf</string>
+    <string name="replace">replace</string>
+    <string name="toLowerCase">toLowerCase</string>
+    <string name="toUpperCase">toUpperCase</string>
+    <string name="trim">trim</string>
+    <string name="split">split</string>
+    <string name="substring">substring</string>
+</resources>
